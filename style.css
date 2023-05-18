@@ -58,9 +58,7 @@ ul li{
     list-style: none;
     color: #fff;
     font-family: "open sans",sans-serif;
-    float: left;
-    
-    
+    float: left;    
 }
 .home:hover{
     color: rgba(255, 0, 0, 0.897);
@@ -163,7 +161,7 @@ ul li{
     text-align: center;
     font-family: "Playfair Display", serif;
     color: #fff;
-        padding-top: 300px;
+    padding-top: 300px;
 }
 .para1{
     padding-top: 20px;
@@ -175,7 +173,6 @@ ul li{
     margin-left: 170px;
     margin-right: 170px;
     font-stretch: normal;
-
 }
 .para2{
     color: #7a7a7a;
@@ -186,8 +183,6 @@ ul li{
     margin-left: 170px;
     margin-right: 170px;
     font-stretch: normal;
-
-
 }
 .para3{
     color: #7a7a7a;
@@ -198,7 +193,6 @@ ul li{
     margin-left: 170px;
     margin-right: 170px;
     font-stretch: normal;
-
 }
 .para4{
     color: #7a7a7a;
@@ -209,7 +203,6 @@ ul li{
     margin-left: 170px;
     margin-right: 170px;
     font-stretch: normal;
-
 }
 .para5{
     color: #7a7a7a;
@@ -236,7 +229,6 @@ ul li{
 a:link{
     text-decoration: none;
     color: #fff;
-
 }
 a:hover{
     color: rgba(255, 0, 0, 0.897);
@@ -253,7 +245,6 @@ a:hover{
     padding-top: 100px; 
     filter: invert(100%);
 }
-
 .left:hover{
     transform: scale(1.1);
     transition: transform 330ms ease-in-out;
